@@ -1,0 +1,27 @@
+
+h1{
+    font-size: 42px;
+    text-align: center;
+    font-style :normal;
+    font-weight:900px;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    font-style :normal;
+    font-weight:900px;
+    margin-top:-250px;
+}
+#Chiku{
+    height: 400;
+    width: 400;
+   margin-left: 375px;   
+}
+#pics{
+    background-color: white;
+   text-decoration-color: black;
+}
